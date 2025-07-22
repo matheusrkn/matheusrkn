@@ -43,4 +43,5 @@ Clique aqui para entrar em contato! ⬇️
 ![Blog](https://img.shields.io/badge/PyCharm-b38bff.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Blog](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
