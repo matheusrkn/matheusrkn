@@ -3,7 +3,7 @@
 Estudante de Sistemas de Informação em busca de oportunidades na área de Tecnologia da Informação, com foco em programação e desenvolvimento de software, possuo sólida base teórica e prática em linguagens de programação, banco de dados e análise de sistemas. Comprometido com a inovação e o desenvolvimento de soluções eficientes, estou sempre em busca de aprimorar conhecimentos para atuar em projetos que envolvam tecnologia e atendam às demandas do mercado. Adaptável e colaborativo, acredito na importância do aprendizado contínuo para destacar-me no setor de TI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-lemesc)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lemescmathgmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lemescmath@gmail.com)
 
 --- 
 
